@@ -1,0 +1,5 @@
+Date, Description, Amount, Type
+2024-01-01, Client Payment, 5000, Income
+2024-01-02, Office Supplies, -200, Expense 
+2024-01-03, Equipment Purchase, -1000, Asset
+2024-01-04, Loan Payment, -500, Liability 
